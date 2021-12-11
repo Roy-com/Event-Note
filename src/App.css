@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #2a566c;
+  padding: 10px;
+}
+.heading_event_note {
+  text-align: center;
+  color: darkgray;
+}
